@@ -1,4 +1,4 @@
-01 - Network Basics
+# 01 - Network Basics
 
 📌 What is a Network?
 
