@@ -161,24 +161,26 @@ After completing these notes, you will understand:
 
 ---
 
-📂 Repository Structure
+## 📁 Repository Structure
 
-computer-networking-notes/
-│── README.md
-│── 01-Network-Basics.md
-│── 02-NIC.md
-│── 03-Router-Switch.md
-│── 04-Network-Cables-Signals.md
-│── 05-Data-Flow.md
-│── 06-Networking-Foundation.md
-│── 07-MAC-Address.md
-│── 08-IP-Address.md
-│── 09-ARP.md
-│── 10-DNS.md
-│── 11-TCP-UDP.md
-│── 12-OSI-Model.md
-│── 13-Complete-Google-Workflow.md
-
+```text
+computer-networking-notes
+│
+├── 📄 README.md
+├── 📘 01-Network-Basics.md
+├── 📘 02-NIC.md
+├── 📘 03-Router-Switch.md
+├── 📘 04-Network-Cables-Signals.md
+├── 📘 05-Data-Flow.md
+├── 📘 06-Networking-Foundation.md
+├── 📘 07-MAC-Address.md
+├── 📘 08-IP-Address.md
+├── 📘 09-ARP.md
+├── 📘 10-DNS.md
+├── 📘 11-TCP-UDP.md
+├── 📘 12-OSI-Model.md
+└── 📘 13-Complete-Google-Workflow.md
+```
 ---
 
 ⭐ Support
