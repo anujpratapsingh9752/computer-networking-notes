@@ -1,6 +1,6 @@
 01 - Network Basics
 
-📌 What is a Network?
+##📌 What is a Network?
 
 A Network is a group of two or more devices connected together to communicate and share data.
 
