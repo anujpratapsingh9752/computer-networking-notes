@@ -96,24 +96,19 @@ Examples:
 - Provides high-speed communication.
 - Usually owned and managed by a single organization or person.
 - Low cost compared to WAN.
+- 
+## Example
 
-## Example:
+```text
+              📡 Router
+                  │
+      ┌───────────┼───────────┐
+      │           │           │
+   💻 Laptop   🖥️ Desktop   🖨️ Printer
+```
 
-📡 Router
+In this example, all devices are connected in a Local Area Network (LAN).
 
-            │
-
-    ┌───────┴────────┐
-
-    │                │
-
-💻 Laptop          🖥️ PC
-
-    │
-
-🖨️ Printer
-
-In this example, all devices are connected in a local network.
 
 ---
 
@@ -137,18 +132,18 @@ It can connect:
 - Uses communication links like fiber cables, satellites, and leased lines.
 - More expensive than LAN.
 - Used by large companies and organizations.
+- 
+## Example
 
-## Example:
-
-Delhi Office
-
-│
-
-  🌍 Internet
-
-  │
-
-Mumbai Office
+```text
+🏢 Delhi Office
+       │
+       │
+   🌍 Internet
+       │
+       │
+🏢 Mumbai Office
+```
 
 The Internet is the world's largest WAN.
 
@@ -158,28 +153,20 @@ The Internet is the world's largest WAN.
 
 When you open a website like google.com, your request travels through multiple devices.
 
-Example:
+## Example
 
+```text
 💻 Your Laptop
-
-│
-
-    ▼
-
+      │
+      ▼
 📡 Router
-
-│
-
-    ▼
-
+      │
+      ▼
 🌍 Internet
-
-│
-
-    ▼
-
+      │
+      ▼
 🖥️ Google Server
-
+```
 Process:
 
 1. You enter google.com in your browser.
@@ -278,29 +265,21 @@ It allows users to access:
 
 ---
 
-# Real-Life Network Example
-
+## Real-Life Example
 When you send a WhatsApp message:
 
-You
-
-│
-
-▼
-
+```text
+👤 You
+   │
+   ▼
 📱 Your Mobile
-
-│
-
-▼
-
+   │
+   ▼
 🌍 Internet
-
-│
-
-▼
-
+   │
+   ▼
 📱 Friend's Mobile
+```
 
 Your message travels through a network before reaching the receiver.
 
