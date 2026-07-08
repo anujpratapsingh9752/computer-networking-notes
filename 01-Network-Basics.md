@@ -100,10 +100,10 @@ Examples:
 ## Example
 
 ```text
-              📡 Router
-                  │
+                📡 Router
+                    │
       ┌───────────┼───────────┐
-      │           │           │
+      │             │             │
    💻 Laptop   🖥️ Desktop   🖨️ Printer
 ```
 
